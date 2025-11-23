@@ -1,1 +1,0 @@
-# Automation Bug Reports - Saucedemo 
